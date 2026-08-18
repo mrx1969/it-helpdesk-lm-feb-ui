@@ -1,0 +1,6 @@
+import{c as a,j as o,a as e}from"./index-BH4geOCt.js";import{B as n}from"./logo-white-CdkrpcYg.js";import{D as t,a as i,b as c,c as r}from"./dropdown-menu-69wZOmqB.js";import{S as l,M as d}from"./sun-Cgah39Zy.js";/**
+ * @license lucide-react v0.462.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const u=a("Lock",[["rect",{width:"18",height:"11",x:"3",y:"11",rx:"2",ry:"2",key:"1w4ew1"}],["path",{d:"M7 11V7a5 5 0 0 1 10 0v4",key:"fwvmzm"}]]);function x(){const{setTheme:s}=o();return e.jsxs(t,{children:[e.jsx(i,{asChild:!0,children:e.jsxs(n,{variant:"outline",size:"icon",children:[e.jsx(l,{className:"h-[1.2rem] w-[1.2rem] rotate-0 scale-100 transition-all dark:-rotate-90 dark:scale-0"}),e.jsx(d,{className:"absolute h-[1.2rem] w-[1.2rem] rotate-90 scale-0 transition-all dark:rotate-0 dark:scale-100"}),e.jsx("span",{className:"sr-only",children:"Toggle theme"})]})}),e.jsxs(c,{align:"end",children:[e.jsx(r,{onClick:()=>s("light"),children:"Light"}),e.jsx(r,{onClick:()=>s("dark"),children:"Dark"}),e.jsx(r,{onClick:()=>s("system"),children:"System"})]})]})}const j="/assets/login-background-Bs63D029.jpg";export{u as L,x as T,j as l};
